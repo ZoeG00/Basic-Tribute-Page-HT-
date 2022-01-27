@@ -1,0 +1,54 @@
+body {
+    font-family: system-ui;
+    background: #813051;
+    color: white;
+    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+  }
+  #tittle {
+    margin-bottom: 0;
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #e78e;
+  
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    height:auto;
+    margin: 0 auto;
+  }
+  #img-div {
+    background: #423;
+    padding: 30px;
+    margin: 0;
+  }
+  #tribute-info {
+    max-width:700px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.9;
+    
+  }
+  #img-caption{
+    max-width: 1200px;
+    margin:0 auto 0 auto;
+    text-align: center;
+    line-height: 1.9;
+   
+  }
+  
+  #description{
+    max-width: 900px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+    line-height: 1.9;
+    
+  }
+  #end {
+    background: #423;
+    margin: 50px auto 50px auto;
+    padding: 30px;
+  }
